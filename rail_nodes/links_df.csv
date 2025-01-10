@@ -1,0 +1,17 @@
+start node i,end node j,c_ij,u_ij
+Milan,Verona,140.51359526930983,inf
+Milan,Genoa,119.17997228645669,inf
+Milan,Turin,126.21938188129471,inf
+Turin,Genoa,123.33194816635648,inf
+Genoa,La Spezia,63.26295292793477,inf
+Verona,Padova,64.4428017250432,inf
+Verona,Bologna,109.12216792422765,inf
+Padova,Bologna,106.23771859577475,inf
+Padova,Venice,41.699558453397685,inf
+Bologna,Ravenna,68.92103767757429,inf
+Verona,St.Gotthard,441.30584880180214,inf
+St.Gotthard,Basel,660.6267495717071,inf
+Basel,Stuttgart,180.09905531554588,inf
+Stuttgart,Duisburg,342.4402200581736,inf
+Duisburg,Chongqing,11179.0,inf
+Chongqing,Qinzhou,541.6604705559934,inf

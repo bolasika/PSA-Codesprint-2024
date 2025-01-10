@@ -1,0 +1,11 @@
+ipywidgets
+ipython
+pandas
+folium
+googlemaps
+numpy
+gurobipy
+geopy
+requests
+flask
+flask-cors

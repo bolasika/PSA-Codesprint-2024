@@ -1,0 +1,17 @@
+start node i,end node j,c_ij,u_ij
+Milan,Verona,0,Inf
+Milan,Genoa,0,Inf
+Milan,Turin,0,Inf
+Turin,Genoa,0,Inf
+Genoa,La Spezia,0,Inf
+Verona,Padova,0,Inf
+Verona,Bologna,0,Inf
+Padova,Bologna,0,Inf
+Padova,Venice,0,Inf
+Bologna,Ravenna,0,Inf
+Verona,St.Gotthard,0,Inf
+St.Gotthard,Basel,0,Inf
+Basel,Stuttgart,0,Inf
+Stuttgart,Duisburg,0,Inf
+Duisburg,Chongqing,11179,Inf
+Chongqing,Qinzhou,0,Inf
